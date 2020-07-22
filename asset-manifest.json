@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ravikiran2945/React-Todo-App.git/static/css/main.d9263311.chunk.css",
+    "main.js": "/ravikiran2945/React-Todo-App.git/static/js/main.1297539d.chunk.js",
+    "main.js.map": "/ravikiran2945/React-Todo-App.git/static/js/main.1297539d.chunk.js.map",
+    "runtime-main.js": "/ravikiran2945/React-Todo-App.git/static/js/runtime-main.7eb39ce4.js",
+    "runtime-main.js.map": "/ravikiran2945/React-Todo-App.git/static/js/runtime-main.7eb39ce4.js.map",
+    "static/js/2.04427124.chunk.js": "/ravikiran2945/React-Todo-App.git/static/js/2.04427124.chunk.js",
+    "static/js/2.04427124.chunk.js.map": "/ravikiran2945/React-Todo-App.git/static/js/2.04427124.chunk.js.map",
+    "index.html": "/ravikiran2945/React-Todo-App.git/index.html",
+    "precache-manifest.94e49d2f3602f4ed7530577616b94006.js": "/ravikiran2945/React-Todo-App.git/precache-manifest.94e49d2f3602f4ed7530577616b94006.js",
+    "service-worker.js": "/ravikiran2945/React-Todo-App.git/service-worker.js",
+    "static/css/main.d9263311.chunk.css.map": "/ravikiran2945/React-Todo-App.git/static/css/main.d9263311.chunk.css.map",
+    "static/js/2.04427124.chunk.js.LICENSE.txt": "/ravikiran2945/React-Todo-App.git/static/js/2.04427124.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ravikiran2945/React-Todo-App.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eb39ce4.js",
+    "static/js/2.04427124.chunk.js",
+    "static/css/main.d9263311.chunk.css",
+    "static/js/main.1297539d.chunk.js"
+  ]
+}
